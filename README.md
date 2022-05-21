@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michelle Jordan</h1>
 <h3 align="center">A full-stack developer from San Antonio, TX</h3>
-<h3 align="center">You can contact me at <a href="mailto:m.kayejordan@gmail.com"> m.kayejordan@gmail.com </a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chellesjord" alt="chellesjord" /></a> </p>
 
