@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [Go Go Gomez](https://github.com/chellesjord/gogogomez)
 
-- 🌱 I’m currently learning **MERN**
-
 - 👨‍💻 All of my projects are available at [github.com/chellesjord](github.com/chellesjord)
 
 - 💬 Ask me about **React**
