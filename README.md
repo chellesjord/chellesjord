@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Michelle Jordan</h1>
 <h3 align="center">A full-stack developer from San Antonio, TX</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chellesjord" alt="chellesjord" /></a> </p>
-
 - 🔭 I’m currently working on [Go Go Gomez](https://github.com/chellesjord/gogogomez)
 
 - 👨‍💻 All of my projects are available at [github.com/chellesjord](github.com/chellesjord)
