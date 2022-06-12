@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Go Go Gomez](https://github.com/chellesjord/gogogomez)
 
-- 👨‍💻 All of my projects are available at [github.com/chellesjord](github.com/chellesjord)
+- 👨‍💻 All of my projects are available at [github.com/chellesjord](https://github.com/chellesjord)
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **m.kayejordan@gmail.com**
+- 📫 How to reach me **<a href = "mailto: m.kayejordan@gmail.com">m.kayejordan@gmail.com</a>**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1_FVvHwaiLhhmktG2NXWbXHOCs8s_yOFX/view?usp=sharing](https://drive.google.com/file/d/1_FVvHwaiLhhmktG2NXWbXHOCs8s_yOFX/view?usp=sharing)
 
